@@ -29,3 +29,12 @@ Le tableau de bord de sécurité est votre point d'entrée dans Microsoft defend
 defender for cloud évalue en permanence tout votre environnement cloud pour détecter les vulnérabilités de sécurité et les erreurs de configuration.
 Il regroupe ensuite les résultats en un seul score sécurisé afin que vous puissiez comprendre votre situation de sécurité actuelle ; plus le score est élevé, plus le niveau de risque identifié est faible.
 vous pouvez également afficher le score de sécurité et les ressources non saines pour les environnements cloud spécifiques que vous surveillez.
+
+# inventory
+La vue d'inventaire fournit un emplacement unique pour afficher toutes les ressources de vos environnements cloud et sur site que vous avez connectés à defender pour le cloud.
+
+# recommandations
+Les recommandations sont regroupées en contrôles de sécurité. Chaque contrôle est un groupe logique de recommandations de sécurité associées et reflète vos surfaces d'attaque vulnérables.
+votre score de sécurité s'améliore à mesure que vous corrigez les recommandations .
+
+Les contrôles sont hiérarchisés par score maximum, vous savez donc quelles recommandations effectuer en premier.
