@@ -26,4 +26,6 @@ avec les fonctionnalités de sécurité renforcée activées, Defender for Cloud
 Le tableau de bord de sécurité est votre point d'entrée dans Microsoft defender for  cloud, avec une vue d'ensemble  de haut niveau de l'état et des informations sur vos ressources non saines, la conformité réglementaire, les alertes de sécurité, etc.
 
 # Security posture
-
+defender for cloud évalue en permanence tout votre environnement cloud pour détecter les vulnérabilités de sécurité et les erreurs de configuration.
+Il regroupe ensuite les résultats en un seul score sécurisé afin que vous puissiez comprendre votre situation de sécurité actuelle ; plus le score est élevé, plus le niveau de risque identifié est faible.
+vous pouvez également afficher le score de sécurité et les ressources non saines pour les environnements cloud spécifiques que vous surveillez.
