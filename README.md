@@ -51,3 +51,5 @@ Defender pour le cloud aide à rationaliser le processus pour répondre aux exig
 Vous pouvez consulter l'état des contrôles de conformité pour chaque norme et réglementation.
 Chaque contrôle de conformité est associé à un ensemble d'évaluations(assessments) associées qui sont exécutées par Defender for Cloud.
 Les icônes vous permettent de voir rapidement si une évaluation réussit ou échoue.
+# environment settings
+Defender pour le cloud collecte les données de vos machines à l'aide d'agents et d'extensions. Le provisionnement automatique réduit les frais généraux de gestion en installant tous les agents et extensions requis sur les machines nouvelles et existantes afin d'assurer une couverture de sécurité plus rapide pour toutes les ressources prises en charge.
