@@ -2,11 +2,11 @@
 
 vous apprendrez à protéger votre environnement multi-cloud avec Microsoft defender for cloud
 
-Vous verrez comment defender pour le cloud vous aide à trouver les points faibles de votre configuration cloud, à renforcer la posture de sécurité globale
+Vous verrez comment Microsoft Defender for Cloud. vous aide à trouver les points faibles de votre configuration cloud, à renforcer la posture de sécurité globale
 de votre environnement et protégez les charges de travail dans les environnements multicloud et hybrides contre l'évolution des menaces.
 
-Defender pour le cloud est un outil destiné à la gestion de la sécurité et à la protection contre les menaces. Il renforce la sécurité de vos ressources cloud et, avec ses plans intégrés, il protège les charges de travail s’exécutant sur des plateformes Azure, hybrides et cloud.
-Defender pour le cloud fournit les outils nécessaires pour renforcer vos ressources, suivre votre situation de sécurité, vous protéger contre les cyberattaques et rationaliser la gestion de la sécurité. Defender pour le cloud étant intégré en mode natif, son déploiement est facile. Vous disposez ainsi d’un approvisionnement automatique simple pour sécuriser vos ressources par défaut. Defender pour le cloud répond à trois besoins essentiels lorsque vous gérez la sécurité de vos ressources et charges de travail dans le cloud et localement :
+Microsoft Defender for Cloud. est un outil destiné à la gestion de la sécurité et à la protection contre les menaces. Il renforce la sécurité de vos ressources cloud et, avec ses plans intégrés, il protège les charges de travail s’exécutant sur des plateformes Azure, hybrides et cloud.
+Microsoft Defender for Cloud. fournit les outils nécessaires pour renforcer vos ressources, suivre votre situation de sécurité, vous protéger contre les cyberattaques et rationaliser la gestion de la sécurité. Microsoft Defender for Cloud. étant intégré en mode natif, son déploiement est facile. Vous disposez ainsi d’un approvisionnement automatique simple pour sécuriser vos ressources par défaut. Microsoft Defender for Cloud. répond à trois besoins essentiels lorsque vous gérez la sécurité de vos ressources et charges de travail dans le cloud et localement :
 # •	Évaluer en permanence - 
 Comprenez votre position actuelle en matière de sécurité.
 # •	Sécurisation : 
@@ -17,9 +17,9 @@ Pour vous aider à vous protéger contre ces problèmes, Microsoft pour le Cloud
 # •	Score sécurisé : 
 un score unique qui vous permet de savoir, en un clin d’œil, votre situation de sécurité actuelle : plus le score est élevé, plus le niveau de risque identifié est faible.
 # •	Recommandations de sécurité: 
-tâches de sécurisation renforcée personnalisées et hiérarchisées pour améliorer votre posture. Pour implémenter une recommandation, vous devez suivre les étapes de correction détaillées qu’elle fournit. Pour de nombreuses recommandations, Defender pour le cloud propose un bouton « Corriger » qui automatise l’implémentation.
+tâches de sécurisation renforcée personnalisées et hiérarchisées pour améliorer votre posture. Pour implémenter une recommandation, vous devez suivre les étapes de correction détaillées qu’elle fournit. Pour de nombreuses recommandations, Microsoft Defender for Cloud. propose un bouton « Corriger » qui automatise l’implémentation.
 # •	Alertes de sécurité :
-avec les fonctionnalités de sécurité renforcée activées, Defender for Cloud détecte les menaces pesant sur vos ressources et charges de travail. Ces alertes apparaissent dans le portail Azure, et Defender pour le cloud peut également les envoyer par e-mail au personnel concerné au sein de votre organisation. Des alertes peuvent également être diffusées vers des solutions SIEM (gestion des informations et événements de sécurité), SOAR (orchestration, automatisation et réponse aux incidents de sécurité) ou de gestion des services informatiques selon les besoins.
+avec les fonctionnalités de sécurité renforcée activées, Defender for Cloud détecte les menaces pesant sur vos ressources et charges de travail. Ces alertes apparaissent dans le portail Azure, et Microsoft Defender for Cloud. peut également les envoyer par e-mail au personnel concerné au sein de votre organisation. Des alertes peuvent également être diffusées vers des solutions SIEM (gestion des informations et événements de sécurité), SOAR (orchestration, automatisation et réponse aux incidents de sécurité) ou de gestion des services informatiques selon les besoins.
 
 
 # DASHBOARD
@@ -31,7 +31,7 @@ Il regroupe ensuite les résultats en un seul score sécurisé afin que vous pui
 vous pouvez également afficher le score de sécurité et les ressources non saines pour les environnements cloud spécifiques que vous surveillez.
 
 # inventory
-La vue d'inventaire fournit un emplacement unique pour afficher toutes les ressources de vos environnements cloud et sur site que vous avez connectés à defender pour le cloud.
+La vue d'inventaire fournit un emplacement unique pour afficher toutes les ressources de vos environnements cloud et sur site que vous avez connectés à Microsoft Defender for Cloud..
 
 # recommandations
 Les recommandations sont regroupées en contrôles de sécurité. Chaque contrôle est un groupe logique de recommandations de sécurité associées et reflète vos surfaces d'attaque vulnérables.
@@ -44,12 +44,12 @@ vous pouvez également filtrer les recommandations avec des Quick fixes. les Qui
 Les Quick fixes permettent de corriger plus rapidement et plus facilement une recommandation pour plusieurs ressources. il vous aide à optimiser vos subscriptions  plus rapidement grâce à la correction à grande échelle.
 
 # Regulatory compliance
-Defender pour le cloud aide à rationaliser le processus pour répondre aux exigences de conformité réglementaire. Au fur et à mesure que vous agissez sur les recommandations et réduisez les facteurs de risque dans votre environnement, votre posture de conformité s'améliore.
+Microsoft Defender for Cloud. aide à rationaliser le processus pour répondre aux exigences de conformité réglementaire. Au fur et à mesure que vous agissez sur les recommandations et réduisez les facteurs de risque dans votre environnement, votre posture de conformité s'améliore.
 Vous pouvez consulter l'état des contrôles de conformité pour chaque norme et réglementation.
 
-Defender pour le cloud aide à rationaliser le processus pour répondre aux exigences de conformité réglementaire. Au fur et à mesure que vous agissez sur les recommandations et réduisez les facteurs de risque dans votre environnement, votre posture de conformité s'améliore.
+Microsoft Defender for Cloud. aide à rationaliser le processus pour répondre aux exigences de conformité réglementaire. Au fur et à mesure que vous agissez sur les recommandations et réduisez les facteurs de risque dans votre environnement, votre posture de conformité s'améliore.
 Vous pouvez consulter l'état des contrôles de conformité pour chaque norme et réglementation.
 Chaque contrôle de conformité est associé à un ensemble d'évaluations(assessments) associées qui sont exécutées par Defender for Cloud.
 Les icônes vous permettent de voir rapidement si une évaluation réussit ou échoue.
 # environment settings
-Defender pour le cloud collecte les données de vos machines à l'aide d'agents et d'extensions. Le provisionnement automatique réduit les frais généraux de gestion en installant tous les agents et extensions requis sur les machines nouvelles et existantes afin d'assurer une couverture de sécurité plus rapide pour toutes les ressources prises en charge.
+Microsoft Defender for Cloud. collecte les données de vos machines à l'aide d'agents et d'extensions. Le provisionnement automatique réduit les frais généraux de gestion en installant tous les agents et extensions requis sur les machines nouvelles et existantes afin d'assurer une couverture de sécurité plus rapide pour toutes les ressources prises en charge.
