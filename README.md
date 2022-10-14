@@ -38,3 +38,6 @@ Les recommandations sont regroupées en contrôles de sécurité. Chaque contrô
 votre score de sécurité s'améliore à mesure que vous corrigez les recommandations .
 
 Les contrôles sont hiérarchisés par score maximum, vous savez donc quelles recommandations effectuer en premier.
+
+pour obtenir le score maximum, toutes les recommandations doivent être corrigées.
+vous pouvez également filtrer les recommandations avec des Quick fixes. les Quick fixes vous permettent d'agir en un seul clic
