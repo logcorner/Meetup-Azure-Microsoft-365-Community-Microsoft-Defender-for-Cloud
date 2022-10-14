@@ -41,3 +41,13 @@ Les contrôles sont hiérarchisés par score maximum, vous savez donc quelles re
 
 pour obtenir le score maximum, toutes les recommandations doivent être corrigées.
 vous pouvez également filtrer les recommandations avec des Quick fixes. les Quick fixes vous permettent d'agir en un seul clic
+Les Quick fixes permettent de corriger plus rapidement et plus facilement une recommandation pour plusieurs ressources. il vous aide à optimiser vos subscriptions  plus rapidement grâce à la correction à grande échelle.
+
+# Regulatory compliance
+Defender pour le cloud aide à rationaliser le processus pour répondre aux exigences de conformité réglementaire. Au fur et à mesure que vous agissez sur les recommandations et réduisez les facteurs de risque dans votre environnement, votre posture de conformité s'améliore.
+Vous pouvez consulter l'état des contrôles de conformité pour chaque norme et réglementation.
+
+Defender pour le cloud aide à rationaliser le processus pour répondre aux exigences de conformité réglementaire. Au fur et à mesure que vous agissez sur les recommandations et réduisez les facteurs de risque dans votre environnement, votre posture de conformité s'améliore.
+Vous pouvez consulter l'état des contrôles de conformité pour chaque norme et réglementation.
+Chaque contrôle de conformité est associé à un ensemble d'évaluations(assessments) associées qui sont exécutées par Defender for Cloud.
+Les icônes vous permettent de voir rapidement si une évaluation réussit ou échoue.
