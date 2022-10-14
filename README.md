@@ -53,3 +53,12 @@ Chaque contrôle de conformité est associé à un ensemble d'évaluations(asses
 Les icônes vous permettent de voir rapidement si une évaluation réussit ou échoue.
 # environment settings
 Microsoft Defender for Cloud. collecte les données de vos machines à l'aide d'agents et d'extensions. Le provisionnement automatique réduit les frais généraux de gestion en installant tous les agents et extensions requis sur les machines nouvelles et existantes afin d'assurer une couverture de sécurité plus rapide pour toutes les ressources prises en charge.
+
+# Workload protections
+
+Ici, vous pouvez monitorer  la couverture de Microsoft Defender for Cloud et mettre à niveau votre abonnement pour obtenir une couverture étendue si nécessaire.
+Lorsque vous activez Microsoft Defender for  serveurs, vous obtenez également des informations avancées sur la protection, y compris just-in-time-vm access, adaptive application controls, adaptive network hardening, file integrity montoring et network mapping
+Microsoft Defender for Cloud détecte également les threads dans n'importe quelle zone de votre environnement et génère des alertes de sécurité.
+Le graphique des alertes de sécurité fournit une vue d'ensemble des alertes par sécurité au fil du temps.
+
+vous pouvez utiliser suppression rules pour supprimer les alertes que vous avez identifiées comme faux positifs ou qui sont déclenchées trop souvent pour être utiles.
