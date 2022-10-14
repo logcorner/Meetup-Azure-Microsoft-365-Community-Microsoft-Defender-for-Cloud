@@ -1,12 +1,12 @@
 # Meetup-Azure-Microsoft-365-Community-Microsoft-Defender-for-Cloud
 
-vous apprendrez à protéger votre environnement multi-cloud avec Microsoft defender for cloud
+Dans cette session, nous allons apprendre à protéger notre environnement multi-cloud avec Microsoft defender for cloud
 
-Vous verrez comment Microsoft Defender for Cloud. vous aide à trouver les points faibles de votre configuration cloud, à renforcer la posture de sécurité globale
-de votre environnement et protégez les charges de travail dans les environnements multicloud et hybrides contre l'évolution des menaces.
+On verra  comment Microsoft Defender for Cloud. nous aide à trouver les points faibles de notre configuration cloud, à renforcer la posture de sécurité globale
+de notre environnement et protégez les charges de travail dans les environnements multicloud et hybrides contre l'évolution des menaces.
 
-Microsoft Defender for Cloud. est un outil destiné à la gestion de la sécurité et à la protection contre les menaces. Il renforce la sécurité de vos ressources cloud et, avec ses plans intégrés, il protège les charges de travail s’exécutant sur des plateformes Azure, hybrides et cloud.
-Microsoft Defender for Cloud. fournit les outils nécessaires pour renforcer vos ressources, suivre votre situation de sécurité, vous protéger contre les cyberattaques et rationaliser la gestion de la sécurité. Microsoft Defender for Cloud. étant intégré en mode natif, son déploiement est facile. Vous disposez ainsi d’un approvisionnement automatique simple pour sécuriser vos ressources par défaut. Microsoft Defender for Cloud. répond à trois besoins essentiels lorsque vous gérez la sécurité de vos ressources et charges de travail dans le cloud et localement :
+Microsoft Defender for Cloud. est un outil destiné à la gestion de la sécurité et à la protection contre les menaces. Il renforce la sécurité de nos ressources cloud et, avec ses plans intégrés, il protège les charges de travail s’exécutant sur des plateformes Azure, hybrides et cloud.
+Microsoft Defender for Cloud. fournit les outils nécessaires pour renforcer nos ressources, suivre notre situation de sécurité, nous protéger contre les cyberattaques et rationaliser la gestion de la sécurité. Microsoft Defender for Cloud. étant intégré en mode natif, son déploiement est facile. Nous disposons ainsi d’un approvisionnement automatique simple pour sécuriser nos ressources par défaut. Microsoft Defender for Cloud. répond à trois besoins essentiels lorsque nous gérons la sécurité de nos ressources et charges de travail dans le cloud et localement :
 # •	Évaluer en permanence - 
 Comprenez votre position actuelle en matière de sécurité.
 # •	Sécurisation : 
