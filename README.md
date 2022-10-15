@@ -14,13 +14,6 @@ renforce la sécurité de l’ensemble des ressources et services connectés.
 # •	Défense :
 détection et résolution de menaces pesant sur ces ressources et services.
 Pour nous  aider à nous protéger contre ces problèmes, Microsoft Defender for Cloud nous offre les outils nécessaires  : Score de sécurité,Recommandations de sécurité ,Alertes de sécurité , etc...
-# •	Score de sécurité : 
-un score unique qui nous permet de savoir, en un clin d’œil, notre situation de sécurité actuelle : plus le score est élevé, plus le niveau de risque identifié est faible.
-# •	Recommandations de sécurité: 
-C'est un ensemble de tâches de sécurisation renforcée personnalisées et hiérarchisées pour améliorer notre posture. Pour implémenter une recommandation, nous devons suivre les étapes de correction détaillées qu’elle fournit. Pour de nombreuses recommandations, Microsoft Defender for Cloud. propose un bouton « Corriger » qui automatise l’implémentation.
-# •	Alertes de sécurité :
-avec les fonctionnalités de sécurité renforcée activées, Defender for Cloud détecte les menaces pesant sur nos ressources et charges de travail. Ces alertes apparaissent dans le portail Azure, et Microsoft Defender for Cloud. peut également les envoyer par e-mail au personnel concerné au sein de notre organisation. Des alertes peuvent également être diffusées vers des solutions SIEM (gestion des informations et événements de sécurité), SOAR (orchestration, automatisation et réponse aux incidents de sécurité) ou de notregestion des services informatiques selon les besoins.
-
 
 # DASHBOARD
 Le tableau de bord de sécurité est notre point d'entrée dans Microsoft defender for  cloud, avec une vue d'ensemble  de haut niveau de l'état et des informations sur nos ressources non saines, la conformité réglementaire, les alertes de sécurité, etc.
@@ -28,12 +21,16 @@ Le tableau de bord de sécurité est notre point d'entrée dans Microsoft defend
 # Security posture
 defender for cloud évalue en permanence tout notre environnement cloud pour détecter les vulnérabilités de sécurité et les erreurs de configuration.
 Il regroupe ensuite les résultats en un seul score sécurisé afin que nous puissions comprendre notre situation de sécurité actuelle ; plus le score est élevé, plus le niveau de risque identifié est faible.
-nous pouvons également afficher le score de sécurité et les ressources non saines pour les environnements cloud spécifiques que nous surveillons.
+nous pouvons également afficher le score de sécurité et les ressources non saines pour les environnements cloud spécifiques que nous surveillons. 
+
+un score unique qui nous permet de savoir, en un clin d’œil, notre situation de sécurité actuelle : plus le score est élevé, plus le niveau de risque identifié est faible.
 
 # inventory
 La vue d'inventaire fournit un emplacement unique pour afficher toutes les ressources de nos environnements cloud et sur site que nous avons connectés à Microsoft Defender for Cloud..
 
 # recommandations
+C'est un ensemble de tâches de sécurisation renforcée personnalisées et hiérarchisées pour améliorer notre posture. Pour implémenter une recommandation, nous devons suivre les étapes de correction détaillées qu’elle fournit. Pour de nombreuses recommandations, Microsoft Defender for Cloud. propose un bouton « Corriger » qui automatise l’implémentation.
+
 Les recommandations sont regroupées en contrôles de sécurité. Chaque contrôle est un groupe logique de recommandations de sécurité associées et reflète nos surfaces d'attaque vulnérables.
 notre score de sécurité s'améliore à mesure que nous corrigeons les recommandations .
 
